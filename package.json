@@ -1,0 +1,8 @@
+{
+  "name": "team-dtk-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site Team DTK : vitrine + panneau admin (articles, thèmes de fête, comptes à rebours)",
+  "scripts": { "dev": "node dev.js" },
+  "engines": { "node": ">=18" }
+}
